@@ -18,5 +18,10 @@ namespace MVCRouteAttributeDemo.Constants
             public const string Contact = "Contact";
             public const string ContactSent = "ContactSent";
         }
+        public class ProductRoutes
+        {
+            public const string Products = "Products";
+            public const string Product = "Product";
+        }
     }
 }
